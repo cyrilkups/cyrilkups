@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cyrilkups
-- 👀 I’m interested in geology and computer science, particularly computational geology
+- 👀 I’m interested in computer science and emerging technologies.
 - 💞️ I’m looking to collaborate on project development around my field of interest
 
 
