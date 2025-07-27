@@ -26,9 +26,9 @@ As a Product Manager and Software Engineer, I live at the intersection of people
 
 ### 🎒 A Little Backstory
 
-Studying Math & Physics with a Computer Science minor  
+Studying Computer Science with a Business Management minor  
 Building at the intersection of product, engineering, and impact  
-Obsessed with good design, clear specs, and fast feedback loops
+Obsessed with good design, clear specs, clean code and fast feedback loops
 
 ---
 
