@@ -40,11 +40,16 @@ Whether it’s about product thinking, side projects, or building better tools�
 
 ---
 
+### 🧭 Explore More
+
+👉 **[Check out my full portfolio here]([https://your-portfolio-link.com](https://brassy-domain-cd7.notion.site/Meet-Cyril-The-PM-23a4518faa4f8066bbbac14826ee0fc0))** — projects, codes, designs, and ideas I’m proud of.
+
+---
+
 ### 📬 Let’s Connect
 
 You’ll find me:
-- Posting small wins & reflections [on LinkedIn](https://www.linkedin.com/in/cyril-kups<img width="468" height="14" alt="image" src="https://github.com/user-attachments/assets/dff2ebf6-054c-4967-bfb9-6a9e58657960" />
-)
+- Posting small wins & reflections [on LinkedIn](https://www.linkedin.com/in/cyril-kups)<img width="468" height="14" alt="image" src="https://github.com/user-attachments/assets/dff2ebf6-054c-4967-bfb9-6a9e58657960" />)
 - Experimenting with side projects here on GitHub
 - Probably sketching UI flows in a random notebook
 
