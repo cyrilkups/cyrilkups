@@ -40,12 +40,6 @@ Whether it’s about product thinking, side projects, or building better tools�
 
 ---
 
-### 🧭 Explore More
-
-👉 **[Check out my full portfolio here](https://brassy-domain-cd7.notion.site/Meet-Cyril-The-PM-23a4518faa4f8066bbbac14826ee0fc0)** — projects, codes, designs, and ideas I’m proud of.
-
----
-
 ### 📬 Let’s Connect
 
 You’ll find me:
