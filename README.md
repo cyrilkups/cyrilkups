@@ -1,8 +1,22 @@
 # 👋 Hey, I’m Cyril
 
+<!-- ANIMATED-CARDS:START -->
+<table>
+  <tr>
+    <td><img src="assets/terminal-card.svg" alt="ASCII portrait terminal" /></td>
+    <td><img src="assets/info-card.svg" alt="Neofetch info card" /></td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="assets/github-contribution-animation.svg" alt="Animated contribution graph" />
+</p>
+<!-- ANIMATED-CARDS:END -->
+
+
 I build things that solve problems—sometimes with code, sometimes with conversation.
 
-As a Product Manager and Software Engineer, I live at the intersection of people, products, and practicality. I like asking *why*, mapping out *what*, and helping ship the *how*.
+As a Technical PM and Software Engineer, I live at the intersection of people, products, and practicality. I like asking *why*, mapping out *what*, and helping ship the *how*.
 
 ---
 
