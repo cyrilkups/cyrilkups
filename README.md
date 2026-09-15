@@ -19,6 +19,14 @@ I like learning what happens after someone clicks a button. Where does the reque
 
 ---
 
+### 🛠️ Technologies & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,cpp,python,kotlin,java,typescript,git,github" alt="Tech stack icons" />
+</p>
+
+---
+
 ### 🔧 What I’m Working On
 
 * Building servers and tools
@@ -47,14 +55,6 @@ I study Computer Science with a minor in Business Management at Grambling State 
 I enjoy taking ideas and turning them into things people can use. I also like looking beneath the surface, understanding why something works, and finding ways to make it better.
 
 Outside of coding, I support student organizations, compete in hackathons, and help connect students with new opportunities.
-
----
-
-### 🛠️ Technologies & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=go,cpp,python,kotlin,java,typescript,git,github" alt="Tech stack icons" />
-</p>
 
 ---
 
