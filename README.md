@@ -50,10 +50,26 @@ Outside of coding, I support student organizations, compete in hackathons, and h
 
 ---
 
+### 🛠️ Technologies & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,cpp,python,kotlin,java,typescript,git,github" alt="Tech stack icons" />
+</p>
+
+---
+
 ### 📬 Let’s Connect
 
-* [LinkedIn](https://www.linkedin.com/in/cyril-kups)
-* [Personal website](https://www.cyrilkups.com/)
-* Explore my projects here on GitHub
+<p align="left">
+  <a href="https://www.linkedin.com/in/cyril-kups">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.cyrilkups.com/">
+    <img src="https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=googlechrome&logoColor=39ff88" alt="Website" />
+  </a>
+  <a href="https://github.com/cyrilkups">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 > *Build with purpose. Understand how it works.*
