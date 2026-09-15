@@ -13,55 +13,47 @@
 </p>
 <!-- ANIMATED-CARDS:END -->
 
+I’m a Computer Science student and software engineer who enjoys working on the parts of software that users may not always see.
 
-I build things that solve problems—sometimes with code, sometimes with conversation.
-
-As a Technical PM and Software Engineer, I live at the intersection of people, products, and practicality. I like asking *why*, mapping out *what*, and helping ship the *how*.
-
----
-
-### 🧩 Currently Into
-
-- 🧪 Building tools that remove friction (looking at you, SpecLinter)
-- 📍 Running experiments on check-in flows, UX, and user behavior (see: Georim)
-- 🛠️ Working with Figma, Firebase, React, Python, and friends
-- 📊 Getting deeper into product metrics and the stories they tell
+I like learning what happens after someone clicks a button. Where does the request go? How is the information stored? What happens when many people use the application at once? These are the kinds of questions that keep me curious.
 
 ---
 
-### ✍️ Favorite Parts of the Work
+### 🔧 What I’m Working On
 
-- Whiteboarding messy ideas into clean flows
-- Making trade-offs that keep users in mind
-- Writing docs that *actually* get read
-- Shipping — even if it's v0.5
-
----
-
-### 🎒 A Little Backstory
-
-Studying Computer Science with a Business Management minor  
-Building at the intersection of product, engineering, and impact  
-Obsessed with good design, clear specs, clean code and fast feedback loops
+* Building servers and tools
+* Learning how large applications work behind the scenes
+* Making software faster and more dependable
+* Growing Campus Hustle
+* Getting better at Go, C++, Python, and Kotlin
 
 ---
 
-### 📬 Let’s Talk
+### 🧩 A Few Things I’ve Built
 
-Whether it’s about product thinking, side projects, or building better tools—I'm always down for a chat.
+* **KupsHTTP:** A web server that helped me learn how computers receive and respond to requests
+* **RaftLog:** A C++ project that explores how several computers can agree and continue working when one fails
+* **InfraLens:** A tool that helps developers find problems in their applications
+* **Campus Hustle:** A marketplace connecting student entrepreneurs with buyers across college campuses
 
-> *“Let’s build something that works.”*
+I have also worked as a software engineering intern at Datadog, where I helped improve how large files are handled across several services.
+
+---
+
+### 🎒 A Little About Me
+
+I study Computer Science with a minor in Business Management at Grambling State University.
+
+I enjoy taking ideas and turning them into things people can use. I also like looking beneath the surface, understanding why something works, and finding ways to make it better.
+
+Outside of coding, I support student organizations, compete in hackathons, and help connect students with new opportunities.
 
 ---
 
 ### 📬 Let’s Connect
 
-You’ll find me:
-- Posting small wins & reflections [on LinkedIn](https://www.linkedin.com/in/cyril-kups)<img width="468" height="14" alt="image" src="https://github.com/user-attachments/assets/dff2ebf6-054c-4967-bfb9-6a9e58657960" />)
-- Sharing more [on my website](https://www.cyrilkups.com/)
-- Experimenting with side projects here on GitHub
-- Probably sketching UI flows in a random notebook
+* [LinkedIn](https://www.linkedin.com/in/cyril-kups)
+* [Personal website](https://www.cyrilkups.com/)
+* Explore my projects here on GitHub
 
----
-
-> *"Build with purpose. Design to be different."*
+> *Build with purpose. Understand how it works.*
