@@ -7,7 +7,8 @@ Pure SMIL, no external CSS/JS.
 """
 import os
 
-WIDTH = 380
+MIN_WIDTH = 380
+CHAR_W = 7.9
 LINE_H = 20
 PAD_X = 22
 PAD_Y = 20
@@ -24,18 +25,18 @@ DIM = "#8b949e"
 
 # (label, value, label_color, value_color) -- label None => section header
 LINES = [
-    (None, "cyril@github", None, ORANGE),
-    (None, "-------------", None, DIM),
+    (None, "cyrilkups@github", None, ORANGE),
+    (None, "-----------------", None, DIM),
     ("OS", "Product x Engineering", BLUE, WHITE),
     ("Role", "Technical PM & Software Engineer", BLUE, WHITE),
-    ("Focus", "check-in flows, UX experiments", BLUE, WHITE),
+    ("Focus", "Systems, Infrastructure, Backend & Product", BLUE, WHITE),
     (None, "", None, None),
-    ("Stack", "Figma  Firebase  React  Python", GREEN, WHITE),
+    ("Stack", "Go  Python  Java  TypeScript", GREEN, WHITE),
     ("Tools", "SpecLinter  Georim", GREEN, WHITE),
     (None, "", None, None),
-    ("Highlight", "Ships v0.5 and iterates in public", CYAN, WHITE),
-    ("Highlight", "Turns messy ideas into clean flows", CYAN, WHITE),
-    ("Highlight", "Writes docs that actually get read", CYAN, WHITE),
+    ("Highlight", "Designs backend systems that scale under real load", CYAN, WHITE),
+    ("Highlight", "Bridges product strategy with hands-on engineering", CYAN, WHITE),
+    ("Highlight", "Ships infrastructure that teams trust in production", CYAN, WHITE),
 ]
 
 
@@ -43,9 +44,18 @@ def esc(s: str) -> str:
     return s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
 
 
+def line_char_len(label, value) -> int:
+    if label is None:
+        return len(value)
+    return len(f"{label}:") + 1 + len(value)
+
+
 def build_svg() -> str:
     n = len(LINES)
     height = TITLEBAR_H + PAD_Y * 2 + n * LINE_H
+
+    longest = max((line_char_len(l, v) for l, v, _, _ in LINES), default=0)
+    WIDTH = max(MIN_WIDTH, int(PAD_X * 2 + longest * CHAR_W + 12))
 
     parts = []
     parts.append(
@@ -94,7 +104,7 @@ def build_svg() -> str:
             label_txt = f'{label}:'
             text = (
                 f'<text x="{PAD_X}" y="{y}" fill="{label_color}" font-size="13" font-weight="bold">{esc(label_txt)}</text>'
-                f'<text x="{PAD_X + len(label_txt)*7.6 + 8:.1f}" y="{y}" fill="{value_color}" font-size="13">{esc(value)}</text>'
+                f'<text x="{PAD_X + len(label_txt)*CHAR_W + 8:.1f}" y="{y}" fill="{value_color}" font-size="13">{esc(value)}</text>'
             )
 
         parts.append(f'''

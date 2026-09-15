@@ -58,6 +58,7 @@ Whether it’s about product thinking, side projects, or building better tools�
 
 You’ll find me:
 - Posting small wins & reflections [on LinkedIn](https://www.linkedin.com/in/cyril-kups)<img width="468" height="14" alt="image" src="https://github.com/user-attachments/assets/dff2ebf6-054c-4967-bfb9-6a9e58657960" />)
+- Sharing more [on my website](https://www.cyrilkups.com/)
 - Experimenting with side projects here on GitHub
 - Probably sketching UI flows in a random notebook
 
