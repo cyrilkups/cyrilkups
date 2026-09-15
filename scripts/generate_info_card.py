@@ -32,7 +32,6 @@ LINES = [
     ("Focus", "Systems, Infrastructure, Backend & Product", BLUE, WHITE),
     (None, "", None, None),
     ("Stack", "Go  Python  Java  TypeScript", GREEN, WHITE),
-    ("Tools", "SpecLinter  Georim", GREEN, WHITE),
     (None, "", None, None),
     ("Highlight", "Designs backend systems that scale under real load", CYAN, WHITE),
     ("Highlight", "Bridges product strategy with hands-on engineering", CYAN, WHITE),
